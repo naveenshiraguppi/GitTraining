@@ -1,0 +1,57 @@
+Naveen Kumar Shiraguppi Rudrappa
+Truganina, VIC 3029 | 0405 633 679 | naveen.shiraguppi@gmail.com
+Australian Citizen
+Senior Software Engineer | Java, Cloud (AWS), Banking/Fintech
+Career Summary
+Senior Software Engineer with 19+ years of experience (10 years in Australia) designing and delivering enterprise-scale applications across banking, insurance, telecom, and automotive sectors. Expert in Java (Spring Boot, Microservices) with strong exposure to cloud-native architectures on AWS and GCP. Adept at stakeholder management, aligning technical solutions with business goals, and delivering secure, scalable, and high-quality software.
+
+Proven success in:
+- Modernizing legacy systems into microservices and improving system scalability
+- Implementing secure and compliant solutions using Vault, HSM, and CI/CD
+- Collaborating across cross-functional teams (architecture, DevOps, delivery)
+- Driving TDD, code reviews, and automation for quality-first delivery
+
+Recognized for technical leadership, long-term contributions, and a commitment to continuous learning and modern engineering practices.
+Core Skills
+Programming & Frameworks: Java (17/11/8), Spring Boot, Spring Cloud, Spring Security, Hibernate, JPA, Struts, EJB, MDB
+Cloud & DevOps: AWS (EC2, RDS, Lambda, IAM, S3), GCP (Cloud Run, GKE), Docker, GitLab CI/CD, Bamboo, GitHub Actions
+Databases: Oracle, PostgreSQL, DB2, MSSQL Server
+Security: HashiCorp Vault, HSM, Jasypt, SCA/SCR scanning
+Frontend/UI: AngularJS, JavaScript, HTML/CSS, Node.js, Karma
+Testing & Quality: JUnit, Mockito, TDD, SonarQube, Cobertura, Checkstyle, Blackduck
+Tools & Platforms: Git, Maven, Gradle, JIRA, ServiceNow, Splunk, Confluence
+
+
+Professional Experience
+Senior Consultant (Client: ANZ) | Senior Developer – Digital Wallets & Token Services
+Mar 2021 – Sep 2025
+Delivered secure tokenization services for ANZ Digital Wallets integrated with VISA and eftpos.
+Partnered with stakeholders across business, architecture, and platform teams to align requirements and ensure timely delivery.
+Led modernization of legacy platforms into microservices, improving scalability and resilience.
+Strengthened security posture via Vault, HSM, and static/dynamic code scanning, ensuring compliance.
+Applied TDD and CI/CD (Bamboo, GitHub Actions) for production-grade code and seamless delivery.
+Drove GCP POCs and designed monolith-to-microservices transitions as part of cloud strategy.
+Enhanced observability using Splunk, reducing incident resolution time.
+Tech Stack: Java 17/8, Spring Boot, Spring Security, REST APIs, Kafka, GCP, Vault, HSM, Oracle, PostgreSQL, Gradle, CI/CD
+Senior Java Developer | AIA Australia
+Aug 2017 – Mar 2021
+Developed REST APIs for AIA Vitality and LifeApp 2.0, serving HESTA and SUNSUPER members.
+Built microservices to support AWS cloud migration and modernization efforts.
+Designed CSR UI portal with and Node.js, improving customer experience and test coverage.
+Refactored back-end for multi-fund architecture, improving performance and scalability.
+Implemented TDD, CI/CD, and SonarQube quality gates ensuring high code standards.
+Tech Stack: Java 8, Spring Boot, AWS, Node.js, Docker, JPA, Oracle DB2
+Application Developer | Intelematics Pty. Ltd., Melbourne
+Jun 2015 – Jul 2017
+Delivered connected vehicle services for Toyota Link using UJML and REST APIs.
+Ported legacy SDKs to a modern modular architecture, improving maintainability.
+Integrated Google Locations API for geo-features, optimizing backend queries with MSSQL Geo functions.
+Designed robust Spring Boot services ensuring stable head-unit to backend communication.
+Tech Stack: Java 8, Spring Boot, REST, MSSQL, Google APIs
+Earlier Career
+CenturyLink Technologies (2007–2015) – Led development of telecom BSS platforms using SOA, EJB, Spring MVC; served as Project Coordinator (Denver).
+ObjectOrb Technologies (2004–2007) – Developed eProvision modules using Java, Struts, JDO, DB2.
+Education
+M.Tech – Computer Engineering, VTU University, India
+B.E. – Computer Science & Engineering, JNNCE, Kuvempu University, India
+
