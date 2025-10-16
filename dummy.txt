@@ -3,15 +3,7 @@ Truganina, VIC 3029 | 0405 633 679 | naveen.shiraguppi@gmail.com
 Australian Citizen
 Senior Software Engineer | Java, Cloud (AWS), Banking/Fintech
 Career Summary
-Senior Software Engineer with 19+ years of experience (10 years in Australia) designing and delivering enterprise-scale applications across banking, insurance, telecom, and automotive sectors. Expert in Java (Spring Boot, Microservices) with strong exposure to cloud-native architectures on AWS and GCP. Adept at stakeholder management, aligning technical solutions with business goals, and delivering secure, scalable, and high-quality software.
-
-Proven success in:
-- Modernizing legacy systems into microservices and improving system scalability
-- Implementing secure and compliant solutions using Vault, HSM, and CI/CD
-- Collaborating across cross-functional teams (architecture, DevOps, delivery)
-- Driving TDD, code reviews, and automation for quality-first delivery
-
-Recognized for technical leadership, long-term contributions, and a commitment to continuous learning and modern engineering practices.
+Senior Software Engineer with 19+ years of experience (10 years in Australia) designing and delivering enterprise-scale applications across banking, insurance, telecom, and automotive sectors. Expert in Java (Spring Boot, Microservices) with strong exposure to cloud-native architectures on AWS and GCP. Adept at stakeholder management, aligning technical solutions with business goals, and delivering secure, scalable, and high-quality software.  Proven success in: - Modernizing legacy systems into microservices and improving system scalability - Implementing secure and compliant solutions using Vault, HSM, and CI/CD - Collaborating across cross-functional teams (architecture, DevOps, delivery) - Driving TDD, code reviews, and automation for quality-first delivery  Recognized for technical leadership, long-term contributions, and a commitment to continuous learning and modern engineering practices.
 Core Skills
 Programming & Frameworks: Java (17/11/8), Spring Boot, Spring Cloud, Spring Security, Hibernate, JPA, Struts, EJB, MDB
 Cloud & DevOps: AWS (EC2, RDS, Lambda, IAM, S3), GCP (Cloud Run, GKE), Docker, GitLab CI/CD, Bamboo, GitHub Actions
@@ -49,9 +41,7 @@ Integrated Google Locations API for geo-features, optimizing backend queries wit
 Designed robust Spring Boot services ensuring stable head-unit to backend communication.
 Tech Stack: Java 8, Spring Boot, REST, MSSQL, Google APIs
 Earlier Career
-CenturyLink Technologies (2007–2015) – Led development of telecom BSS platforms using SOA, EJB, Spring MVC; served as Project Coordinator (Denver).
-ObjectOrb Technologies (2004–2007) – Developed eProvision modules using Java, Struts, JDO, DB2.
+CenturyLink Technologies (2007–2015) – Led development of telecom BSS platforms using SOA, EJB, Spring MVC; served as Project Coordinator (Denver). ObjectOrb Technologies (2004–2007) – Developed eProvision modules using Java, Struts, JDO, DB2.
 Education
 M.Tech – Computer Engineering, VTU University, India
 B.E. – Computer Science & Engineering, JNNCE, Kuvempu University, India
-
